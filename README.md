@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Lageren
 - 👀 I’m interested in:
-Web-Development: HTML; CSS; Flask
-Game-Development: C#; Unity
-Operating systems: Linux (Ubuntu; Parrot-OS)
-AI: Python
+     Web-Development: HTML; CSS; Flask </br> 
+     Game-Development: C#; Unity </br>
+     Operating systems: Linux (Ubuntu; Parrot-OS) </br> 
+     AI: Python </br>
 - 🌱 I’m currently learning Python; C
 - 💞️ I’m looking to collaborate on Python Projects 
 - 📫 How to reach me ...
